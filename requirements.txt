@@ -1,0 +1,6 @@
+google==2.0.2
+google-cloud-vision==0.38.1
+Flask==1.1.1
+Flask-Dropzone==1.5.4
+flask-uploads==0.2.1
+glob3==0.0.1
